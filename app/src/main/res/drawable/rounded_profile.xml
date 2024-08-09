@@ -1,0 +1,4 @@
+<!-- res/drawable/circular_shape.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="150dp" /> <!-- Setengah dari ukuran width/height -->
+</shape>
